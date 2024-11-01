@@ -12,4 +12,4 @@ Datasets that could be useful for civic problems and/or with WPRDC datasets
 ## Datasets that are fun
 
 [Pinball Map](https://pinballmap.com/map?address=pittsburgh%2C+pa) - A crowdsourced map of locations of pinball machines.
- * There is an [API](https://pinballmap.com/api/v1/docs) and [permission to use API results with attribution and a backlink](https://pinballmap.com/faq#1).
+* There is an [API](https://pinballmap.com/api/v1/docs) and [permission to use API results with attribution and a backlink](https://pinballmap.com/faq#1).
